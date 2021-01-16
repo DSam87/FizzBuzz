@@ -21,7 +21,7 @@ This will be my first js project, using loops, functions and variables.
 // *********************** //
 Plan / Pseudo Code
 
-1.get userInput for the number limit.
+!!!DONE!!! 1.get userInput for the number limit. !!!DONE!!!
 
 2.Start from startNumber=1 and go up to usersInput.
 
