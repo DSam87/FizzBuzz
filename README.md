@@ -23,12 +23,12 @@ Plan / Pseudo Code
 
 !!!DONE!!! 1.get userInput for the number limit. !!!DONE!!!
 
-2.Start from startNumber=1 and go up to usersInput.
+!!!DONE!!! 2.Start from startNumber=1 and go up to usersInput. !!!DONE!!!
 
-3.check each startNumber if its devisible by 3, 5 or 15. 
-    3a. if 3, "fizz" , if 5, "buzz", if 15, "fizzbuzz"
+!!!DONE!!! 3.check each startNumber if its devisible by 3, 5 or 15. !!!DONE!!! 
+!!!DONE!!!     3a. if 3, "fizz" , if 5, "buzz", if 15, "fizzbuzz"   !!!DONE!!! 
 
-4.When startNumber is greater then userInput, stop the program.
+!!!DONE!!! 4.When startNumber is greater then userInput, stop the program.!!!DONE!!! 
 
 
 
