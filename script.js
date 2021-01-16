@@ -15,6 +15,13 @@ function getUserNumber(){
     // }
 }
 
+function askPlayAgain(){
+    let playerAnswer=prompt("Nice!, would you like to play again?");
+    playerAnswer === 1 ? getUserNumber() : alert("Thanks for playing!");
+
+
+}
+
 
 function fizzBuzz(stopNumber){
     for(i=1; i <= stopNumber; i++){
@@ -38,6 +45,8 @@ function fizzBuzz(stopNumber){
 }
 
 getUserNumber();
+
+
 
 
 
